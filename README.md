@@ -9,9 +9,9 @@ A functional component
 ```golang
 func hello() tsx.T {
 	return tsx.T{
-        // name of the "tag" for styling purposes
-        Name: "hello",
-        // text to render in that tag
+        	// name of the "tag" for styling purposes
+        	Name: "hello",
+        	// text to render in that tag
 		Text: "Hello ",
 	}
 }
