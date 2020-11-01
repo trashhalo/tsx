@@ -17,4 +17,4 @@ func hello() tsx.T {
 }
 ```
 
-A more complete example can be seen in <./examples/hello/hello.go>
+A more complete example can be seen in [./examples/hello/hello.go](./examples/hello/hello.go)
